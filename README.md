@@ -27,6 +27,11 @@ The steps carried out `Navigation.ipynb` are:
 4. Iterate until agent reaches a threshold score of 15.0
 
 
+## Instructions:
+
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent! 
+The code has been adapted from the (Deep_Q_Network_Solution)[https://github.com/udacity/deep-reinforcement-learning/blob/master/dqn/solution/Deep_Q_Network_Solution.ipynb] notebook.
+
 ## Before start:
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:

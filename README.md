@@ -30,7 +30,6 @@ The steps carried out `Navigation.ipynb` are:
 ## Instructions:
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent! 
-The code has been adapted from the (Deep_Q_Network_Solution)[https://github.com/udacity/deep-reinforcement-learning/blob/master/dqn/solution/Deep_Q_Network_Solution.ipynb] notebook.
 
 ## Before start:
 
